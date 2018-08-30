@@ -1,4 +1,7 @@
 {
     "stackoverflow" : "https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg?v=f13ebeedfa9e",
-    "github" : "https://assets-cdn.github.com/images/modules/logos_page/Octocat.png"
+    "github" : "https://assets-cdn.github.com/images/modules/logos_page/Octocat.png",
+    "npmjs" : "https://static.npmjs.com/34110fd7686e2c90a487ca98e7336e99.png",
+    "jquery" : "https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico",
+    "medium" : "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png"
 }
